@@ -38,7 +38,7 @@
 ### 🛠️ Build & Run
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Shadmanchyjoy/eid-animation.git](https://github.com/Shadmanchyjoy/eid-animation.git)
+   git clone https://github.com/Shadmanchyjoy/eid-animation.git
    cd eid-animation
    ```
 2. **Compile the C++ code**
