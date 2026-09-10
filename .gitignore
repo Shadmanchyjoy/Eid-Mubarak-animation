@@ -1,0 +1,10 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+eid_animation
+
+# System/IDE files
+.DS_Store
+.vscode/
+.idea/
