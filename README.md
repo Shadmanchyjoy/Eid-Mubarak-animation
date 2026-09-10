@@ -38,8 +38,8 @@
 ### 🛠️ Build & Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shadmanchyjoy/eid-animation.git
-   cd eid-animation
+   git clone https://github.com/Shadmanchyjoy/Eid-Mubarak-animation.git
+   cd Eid-Mubarak-animation
    ```
 2. **Compile the C++ code**
    ```bash
